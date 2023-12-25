@@ -7,7 +7,7 @@
 
     
 <h3 align="left">🫠 About Me</h3>
-<p align= "left"> 
+<p align= "justify"> 
 🚀 Passionate Robotics Engineer
 
 Hello there! 👋 I'm Suraj Kalwaghe, and welcome to my GitHub universe! 🌐 As a dedicated Robotics Engineer with a passion for pushing technological boundaries, this is where I showcase my journey in the world of innovation and problem-solving.
@@ -36,8 +36,7 @@ Leadership Excellence: Led the Electronics Department in Team Stallion, securing
 
 🤖 Join the Journey:
 I invite you to explore, collaborate, and be a part of this exciting journey into the realms of robotics and technology. Let's connect, learn, and innovate together! 🚀
-
-
+</p>
 <h3 align="left">🔥Stats and Contribution: </h3>
 <p align= "center">	
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Suraj-Kalwaghe&theme=ambient_gradient&disable_animations=false"/>
