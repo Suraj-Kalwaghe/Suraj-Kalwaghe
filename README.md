@@ -4,8 +4,8 @@
 <p align= "center">	
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=F7F7F7FF&background=FF18C200&center=true&multiline=true&random=false&width=750&height=100&lines=Hi%2C+I'm+Suraj+Kalwaghe!+A+Passionate+Robotics+;Engineer+from++University+of+Maryland%2C+College+Park.;Thanks+for+stopping+by!"/>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-kalwaghe&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-kalwaghe" /> </p>
-    
+
+
 <h3 align="left">🫠 About Me</h3>
 <p align= "justify"> 
 🚀Aspiring Robotics Engineer
