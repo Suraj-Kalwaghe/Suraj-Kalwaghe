@@ -8,7 +8,7 @@
     
 <h3 align="left">🫠 About Me</h3>
 <p align= "justify"> 
-🚀 Passionate Robotics Engineer
+🚀Aspiring Robotics Engineer
 
 Hello there! 👋 I'm Suraj Kalwaghe, and welcome to my GitHub universe! 🌐 As a dedicated Robotics Engineer with a passion for pushing technological boundaries, this is where I showcase my journey in the world of innovation and problem-solving.
 
