@@ -2,7 +2,7 @@
 <h3 align="center">A budding Robotics Engineer from Maryland, USA</h3> -->
 
 <p align= "center">	
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=F7F7F7FF&background=FF18C200&center=true&multiline=true&random=false&width=750&height=100&lines=Hi%2C+I'm+Suraj+Kalwaghe!+A+Passionate+Robotics+;Engineer+from++University+of+Maryland%2C+College+Park.;Thanks+for+stopping+by!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&color=F7F7F7FF&background=FF18C200&center=true&multiline=true&random=false&width=750&height=120&lines=Hi👋%2C+I'm+Suraj+Kalwaghe!+;A+Passionate+Robotics+Engineer+from+;University+of+Maryland%2C+College+Park.;Thanks+for+stopping+by!&hold=true"/>
 </p>
 
 
@@ -40,6 +40,9 @@ I invite you to explore, collaborate, and be a part of this exciting journey int
 <h3 align="left">🔥Stats and Contribution: </h3>
 <p align= "center">	
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=Suraj-Kalwaghe&theme=ambient_gradient&disable_animations=false"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-kalwaghe&theme=ambient_gradient&show_icons=true&locale=en&layout=compact" alt="suraj-kalwaghe"/>
 </p>
 <!-- state github 
 <p align= "center">	
@@ -79,7 +82,7 @@ title_color=f7f7f7&f7f7f7&bg_color=20,f72585,d61e92,c61b98,b5179e,ab18b3,a118c8,
   </a>
     <a href="https://www.arduino.cc/">
     <img height="30" alt="Arduino" src="https://img.shields.io/badge/-Arduino-008080?style=plastic&logo=arduino"/>
-
+    </a> 
 <!--   https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg  
     https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg -->
 <!--   <img height="30" alt="Git" src="https://img.shields.io/badge/-Git-1a77ae?style=plastic&logo=git"/> -->
@@ -87,7 +90,7 @@ title_color=f7f7f7&f7f7f7&bg_color=20,f72585,d61e92,c61b98,b5179e,ab18b3,a118c8,
 <!--   <img height="20" alt="Notion" src="https://img.shields.io/badge/Software-Notion-black?style=plastic&logo=notion"/> -->
 <!--   <img height="20" alt="YAML" src="https://img.shields.io/badge/Software-YAML-8f2b8a?style=plastic&logo=yaml"/> -->
 <!--   <img height="30" alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=plastic&logo=cplusplus"/>
-  </a> -->
+-->
 <!--   <a href= "https://www.python.org/">
     <img height="30" alt="Python" src="https://img.shields.io/badge/-Python-ffcd3a?style=plastic&logo=python"/> -->
 <!--   </a> 
@@ -108,6 +111,8 @@ title_color=f7f7f7&f7f7f7&bg_color=20,f72585,d61e92,c61b98,b5179e,ab18b3,a118c8,
 </a>
 </p>
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suraj-kalwaghe&show_icons=true&locale=en&layout=compact" alt="suraj-kalwaghe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj-kalwaghe&show_icons=true&locale=en" alt="suraj-kalwaghe" /></p>
+
  --> 
+
+
